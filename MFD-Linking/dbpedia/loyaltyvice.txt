@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/Individual
+http://dbpedia.org/resource/Immigration
+http://dbpedia.org/resource/Enemy
+http://dbpedia.org/resource/Desertion
+http://dbpedia.org/resource/Apostasy
+http://dbpedia.org/resource/Treason
+http://dbpedia.org/resource/Child_abandonment
+http://dbpedia.org/resource/Terrorism
+http://dbpedia.org/resource/Betrayal
+http://dbpedia.org/resource/Abandonment_(emotional)
+http://dbpedia.org/resource/Sequestration_(law)
+http://dbpedia.org/resource/Alien_(law)
+http://dbpedia.org/resource/Abandonment_(legal)
+http://dbpedia.org/resource/Deception
+http://dbpedia.org/resource/Espionage
